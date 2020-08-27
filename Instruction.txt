@@ -1,0 +1,14 @@
+Steps to configure and run the project:
+--------------------------------------
+1-Open school\configdb.txt file and set the database parameters.
+2-Double click on 'install' to setup database. It will setup database and create a file named 'startapp'.
+3-Double click on the 'startapp' to run the project.
+
+NOTE: Make sure that Python 3.x and MySQL is installed. 
+
+
+Project developed by:
+---------------------
+Utkarsh Patel
+IIIT NAGPUR
+utkarshpatel500@gmail.com
